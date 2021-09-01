@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KINGZDong
-- 👀 I’m interested in pointscloud
-- 🌱 I’m currently learning PCL
+- 👀 I’m interested in pointscloud and Python
+- 🌱 I’m currently learning PCL/Python/selenium/pywinauto
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dd2557833850@gmail.com
 
